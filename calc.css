@@ -60,7 +60,7 @@ main {
 }
 button {
     border: none;
-    border-radius: 40%;
+    border-radius: 20%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30pt;
     transition: 0.2s ease-in-out;
